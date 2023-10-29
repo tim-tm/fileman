@@ -1,3 +1,5 @@
+[![Ubuntu build](https://github.com/tim-tm/fileman/actions/workflows/makefile.yml/badge.svg)](https://github.com/tim-tm/fileman/actions/workflows/makefile.yml)
+
 # fileman
 
 ### This project by far not production ready and for now only made for educational purposes.
