@@ -2,7 +2,7 @@
 
 # fileman
 
-### This project by far not production ready and for now only made for educational purposes.
+### This project is by far not production ready and for now only made for educational purposes.
 ### Windows is not supported for now.
 
 fileman is a really simple filemanager, inside of the cli.
@@ -45,7 +45,7 @@ arrow-down
 : Delete the selected file
 
 ':'
-: Enter the selected directory
+: Enter the selected directory or submit the new filename
 
 'o'
 : Open the selected file or directory in neovim
