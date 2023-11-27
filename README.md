@@ -1,4 +1,4 @@
-[![Ubuntu build](https://github.com/tim-tm/fileman/actions/workflows/makefile.yml/badge.svg)](https://github.com/tim-tm/fileman/actions/workflows/makefile.yml)
+[![Ubuntu build](https://github.com/tim-tm/fileman/actions/workflows/build.yml/badge.svg)](https://github.com/tim-tm/fileman/actions/workflows/build.yml)
 
 # fileman
 
